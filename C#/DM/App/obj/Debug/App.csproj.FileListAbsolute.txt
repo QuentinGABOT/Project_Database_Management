@@ -1,0 +1,5 @@
+C:\Users\Willi\Desktop\ESILV\A3\S6\BDD\DM\DM\App\obj\Debug\App.csprojAssemblyReference.cache
+C:\Users\Willi\Desktop\ESILV\A3\S6\BDD\DM\DM\App\obj\Debug\MainWindow.g.cs
+C:\Users\Willi\Desktop\ESILV\A3\S6\BDD\DM\DM\App\obj\Debug\App.g.cs
+C:\Users\Willi\Desktop\ESILV\A3\S6\BDD\DM\DM\App\obj\Debug\App_MarkupCompile.cache
+C:\Users\Willi\Desktop\ESILV\A3\S6\BDD\DM\DM\App\obj\Debug\App_MarkupCompile.lref
